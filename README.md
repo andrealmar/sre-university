@@ -32,4 +32,5 @@
 
 ## Blogs
 
-- http://highscalability.com/
+- http://highscalability.com
+- https://medium.com/production-ready
