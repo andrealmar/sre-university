@@ -8,6 +8,8 @@
 
 ## Python
 
+- https://learnpythonthehardway.org/python3/ (Learn Python 3 The Hard Way - Zed Shaw)
+
 ## Go
 
 # Production Web App
