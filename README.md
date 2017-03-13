@@ -16,3 +16,8 @@
 - https://www.digitalocean.com/community/tutorial_series/building-for-production-web-applications
 
 ## Post-Mortem
+
+## Blogs
+
+- http://highscalability.com/
+- 
