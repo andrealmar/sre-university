@@ -1,6 +1,15 @@
 # Site Reliability Engineering
 
 - (Book) Site Reliability Engineering - https://landing.google.com/sre/book/index.html
+- (Course) Intro to DevOps - https://br.udacity.com/course/intro-to-devops--ud611/
+- (Course) Scalable Microservices with Kubernetes - https://br.udacity.com/course/scalable-microservices-with-kubernetes--ud615/
+- (Course) Google Cloud Platform for Systems Operations - https://www.coursera.org/specializations/gcp-sysops
+- (Tutorial) Kubernetes Bootcamp - https://kubernetesbootcamp.github.io/kubernetes-bootcamp/index.html
+
+# Operating Systems
+- (Course) Introduction to Operating Systems - https://br.udacity.com/course/introduction-to-operating-systems--ud923/
+
+- (Course) Advanced Operating Systems - https://br.udacity.com/course/advanced-operating-systems--ud189/
 
 # Distributed Systems
 
@@ -15,6 +24,7 @@
 ## Python
 
 - (Book) Learn Python 3 The Hard Way - https://learnpythonthehardway.org/python3/
+- (Course) Developing Scalable Apps in Python - https://br.udacity.com/course/developing-scalable-apps-in-python--ud858/
 
 ## Go
 - (Book) The Go Programming Language - https://www.amazon.com/Programming-Language-Addison-Wesley-Professional-Computing/dp/0134190440
