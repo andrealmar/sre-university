@@ -2,9 +2,7 @@
 
 - (Book) Site Reliability Engineering - https://landing.google.com/sre/book/index.html
 - (Course) Intro to DevOps - https://br.udacity.com/course/intro-to-devops--ud611/
-- (Course) Scalable Microservices with Kubernetes - https://br.udacity.com/course/scalable-microservices-with-kubernetes--ud615/
 - (Course) Google Cloud Platform for Systems Operations - https://www.coursera.org/specializations/gcp-sysops
-- (Tutorial) Kubernetes Bootcamp - https://kubernetesbootcamp.github.io/kubernetes-bootcamp/index.html
 
 # Operating Systems
 - (Course) Introduction to Operating Systems - https://br.udacity.com/course/introduction-to-operating-systems--ud923/
@@ -41,6 +39,23 @@
 - (Book) Production Ready Microservices - https://www.amazon.com/gp/product/1491965975/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1491965975&linkCode=as2&tag=susanfowler-20&linkId=8e434210b002d00be8507454a75c11ff
 
 # Monitoring and Logging
+
+# Continuous Integration | Continuous Delivery
+- (Course) Continuous Deliver Better Software - https://www.udemy.com/learn-devops-continuously-deliver-better-software
+
+# Containers
+- (Course) Docker for Devops - https://www.udemy.com/docker-tutorial-for-devops-run-docker-containers
+
+## Web Servers
+
+# Nginx
+- (Course) Nginx Fundamentals - https://www.udemy.com/nginx-fundamentals/
+
+## Cluster Management
+
+# Kubernetes 
+- (Tutorial) Kubernetes Bootcamp - https://kubernetesbootcamp.github.io/kubernetes-bootcamp/index.html
+- (Course) Scalable Microservices with Kubernetes - https://br.udacity.com/course/scalable-microservices-with-kubernetes--ud615/
 
 ## Post-Mortem
 
