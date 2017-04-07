@@ -11,6 +11,10 @@
 
 - (Course) Advanced Operating Systems - https://br.udacity.com/course/advanced-operating-systems--ud189/
 
+# Automation 
+- (Tutorial) Ansible - https://www.digitalocean.com/community/tutorials/configuration-management-101-writing-ansible-playbooks
+- (Course) Terraform - https://www.udemy.com/learn-devops-infrastructure-automation-with-terraform/learn
+
 # Distributed Systems
 
 - (Tutorial) Introduction to Distributed Systems Design - http://www.hpcs.cs.tsukuba.ac.jp/~tatebe/lecture/h23/dsys/dsd-tutorial.html
