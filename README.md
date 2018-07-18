@@ -39,6 +39,7 @@
 - (Book) Production Ready Microservices - https://www.amazon.com/gp/product/1491965975/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1491965975&linkCode=as2&tag=susanfowler-20&linkId=8e434210b002d00be8507454a75c11ff
 
 # Monitoring and Logging
+- (Course) Monitoring and Alerting with Prometheus - https://www.udemy.com/monitoring-and-alerting-with-prometheus/landing-page/
 
 # Continuous Integration | Continuous Delivery
 - (Course) Continuous Deliver Better Software - https://www.udemy.com/learn-devops-continuously-deliver-better-software
