@@ -3,6 +3,7 @@
 - (Book) Site Reliability Engineering - https://landing.google.com/sre/book/index.html
 - (Course) Intro to DevOps - https://br.udacity.com/course/intro-to-devops--ud611/
 - (Course) Google Cloud Platform for Systems Operations - https://www.coursera.org/specializations/gcp-sysops
+- (Course) Measuring and Managing Reliability - https://www.coursera.org/learn/site-reliability-engineering-slos
 
 # Operating Systems
 - (Course) Introduction to Operating Systems - https://br.udacity.com/course/introduction-to-operating-systems--ud923/
@@ -40,6 +41,7 @@
 
 # Monitoring and Logging
 - (Course) Monitoring and Alerting with Prometheus - https://www.udemy.com/monitoring-and-alerting-with-prometheus/landing-page/
+- (Book) Prometheus UP and Running - https://www.amazon.com/Prometheus-Infrastructure-Application-Performance-Monitoring/dp/1492034142
 
 # Continuous Integration | Continuous Delivery
 - (Course) Continuous Deliver Better Software - https://www.udemy.com/learn-devops-continuously-deliver-better-software
