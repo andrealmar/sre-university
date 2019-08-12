@@ -76,4 +76,8 @@
 
 <img src="/images/devops_roadmap.png">  
 
+# Further Reading
+
+- [Awesome SRE](https://github.com/dastergon/awesome-sre) link directory
+
 Image Credits: https://github.com/kamranahmedse/developer-roadmap
