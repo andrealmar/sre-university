@@ -58,7 +58,7 @@
 ## Cluster Management
 
 # Kubernetes 
-- (Tutorial) Kubernetes Bootcamp - https://kubernetesbootcamp.github.io/kubernetes-bootcamp/index.html
+- (Tutorial) Kubernetes Bootcamp  - https://kubernetes.io/docs/tutorials/kubernetes-basics/
 - (Course) Scalable Microservices with Kubernetes - https://br.udacity.com/course/scalable-microservices-with-kubernetes--ud615/
 
 ## Cloud
@@ -75,7 +75,9 @@
 
 # DevOps | SRE Roadmap
 
-<img src="/images/devops_roadmap.png">  
+
+
+<img src="https://github.com/kamranahmedse/developer-roadmap/blob/master/img/devops.png">
 
 # Further Reading
 
