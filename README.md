@@ -2,7 +2,7 @@
 
 - (Book) Site Reliability Engineering - https://landing.google.com/sre/book/index.html
 - (Book) Site Reliability Workbook - https://landing.google.com/sre/workbook/toc/
-- (Book) Building Secure and Reliable Systems - https://landing.google.com/sre/static/pdf/SRS.pdf
+- (Book) Building Secure and Reliable Systems - https://landing.google.com/sre/resources/foundationsandprinciples/srs-book/
 - (Course) Intro to DevOps - https://br.udacity.com/course/intro-to-devops--ud611/
 - (Course) Google Cloud Platform for Systems Operations - https://www.coursera.org/specializations/gcp-sysops
 - (Course) Measuring and Managing Reliability - https://www.coursera.org/learn/site-reliability-engineering-slos
