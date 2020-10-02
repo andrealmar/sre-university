@@ -36,6 +36,8 @@
 
 - (Webinar) https://www.youtube.com/watch?v=Q_H4hrUez80 (Go Language for Ops and Site Reliability Engineering)
 
+- (Hands On) https://gopherlabs.kubedaily.com/
+
 # Production Web App
 - (Tutorial) https://www.digitalocean.com/community/tutorial_series/building-for-production-web-applications
 
