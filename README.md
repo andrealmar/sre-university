@@ -77,7 +77,6 @@ Post-Mortem Template: https://sre.google/sre-book/example-postmortem/
 ## Blogs
 
 - http://highscalability.com
-- https://medium.com/production-ready
 
 # DevOps | SRE Roadmap
 
