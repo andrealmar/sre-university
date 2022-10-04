@@ -70,6 +70,7 @@
 
 - (Tutorial) Kubernetes Bootcamp - https://kubernetes.io/docs/tutorials/kubernetes-basics/
 - (Course) Scalable Microservices with Kubernetes - https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615
+- (Tutorial) Kubernetes Tutorial for Beginners - https://spacelift.io/blog/kubernetes-tutorial
 
 ## Cloud
 
